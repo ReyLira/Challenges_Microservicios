@@ -1,1 +1,0 @@
-https://hub.docker.com/layers/reylirg/challenge3dockerizacion/latest/images/sha256-73b784486bbeb762558e6b15dabf260934eba49b212f81307bc6c7c97e162404?context=repo
